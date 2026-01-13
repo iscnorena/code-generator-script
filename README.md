@@ -3,12 +3,11 @@
 Script en Python para generar códigos aleatorios bajo reglas específicas y exportarlos a un archivo de texto.
 
 ## Problema
-Se necesitaba generar miles de códigos únicos cumpliendo restricciones de caracteres, evitando confusiones visuales y errores humanos.
+Se necesitaba generar miles de códigos únicos cumpliendo restricciones de caracteres.
 
 ## Solución
 Se desarrolló un script en Python que:
-- Genera códigos de longitud fija
-- Excluye caracteres problemáticos
+- Genera códigos de longitud fijo
 - Exporta el resultado en formato listo para ser consumido por otros sistemas
 
 ## Tecnologías
